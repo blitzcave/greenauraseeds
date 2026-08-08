@@ -1,0 +1,6 @@
+{
+  "name": "Green Aura Seeds",
+  "description": "Premium organic seeds, farm supplies, and garden catalog with interactive seed finder, product catalog, cart checkout, domain variation lookup, and planting calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
